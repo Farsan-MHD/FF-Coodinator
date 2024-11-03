@@ -679,10 +679,12 @@ label{
 
 input{
     width:250px;
-    padding:5px 0;
+    font-size: 16px;
+    text-indent: 10px;
     color: var(--nav-background);
     background-color: var(--body-background);
     border: 1px solid var(--body-background);
+    border-radius: 5px;
 }
 
 .form{
@@ -697,8 +699,12 @@ input{
 textarea{
     color: var(--nav-background);
     width:250px;
+    font-size: 16px;
+    text-indent: 10px;
+    padding-top: 5px;
     background-color: var(--body-background);
     border: 1px solid var(--body-background);
+    border-radius: 5px;
 }
 
 .reset-submit{
