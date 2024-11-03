@@ -10,6 +10,7 @@
     --box-background: #F8F9FB;
     --header-text: #AECBEB;
     --text-color: #71A5DE;
+    --black-text: black;
 }
 
 html{
@@ -697,7 +698,7 @@ input{
 }
 
 textarea{
-    color: var(--nav-background);
+    color: var(--black-text);
     width:250px;
     font-size: 16px;
     text-indent: 10px;
