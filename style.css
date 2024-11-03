@@ -683,7 +683,7 @@ input{
     font-size: 16px;
     text-indent: 10px;
     padding: 5px;
-    color: var(--nav-background);
+    color: var(--black-text);
     background-color: var(--body-background);
     border: 1px solid var(--body-background);
     border-radius: 5px;
