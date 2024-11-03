@@ -681,7 +681,6 @@ input{
     width:250px;
     font-size: 16px;
     text-indent: 10px;
-    padding: 5px;
     color: var(--nav-background);
     background-color: var(--body-background);
     border: 1px solid var(--body-background);
